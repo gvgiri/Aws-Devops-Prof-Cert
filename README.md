@@ -127,3 +127,5 @@ https://d1.awsstatic.com/whitepapers/aws-development-test-environments.pdf
 # Tutorials 
 ### Code Pineline
 https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials.html
+https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/
+
