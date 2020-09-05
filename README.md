@@ -102,6 +102,8 @@ https://wiki.jenkins.io/display/JENKINS/Artifact+Manager+S3+Plugin
 
 https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin 
 
+### ECS
+https://aws.amazon.com/blogs/containers/amazon-ecs-availability-best-practices/
 
 # WhitePapers to Read - AWS Certified DevOps Engineer Professional 
 Whitepapers to Read 
