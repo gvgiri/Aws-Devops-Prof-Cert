@@ -125,15 +125,15 @@ Solution here.....
 </p>
 </details>
 
-# CloudWath 
-## Metrics
+# CloudWatch 
+## Metrics and creating alarms
 ### Note 
 
 <details><summary>show</summary>
 <p>
 
 ```bash
-< 1 min. 03 hours
+< 1 min. 03 hours.  <-- custom metric
 1 minute 15 days
 5 minute 63 days
 1 hour   15 months
@@ -142,8 +142,8 @@ Solution here.....
 </details>
 
 # CloudWatch 
-## Events
-### Note 
+## Custom Metric
+### Create a custom metric 
 
 <details><summary>show</summary>
 <p>
@@ -154,15 +154,17 @@ Solution here.....
 </p>
 </details>
 
-# Template 
-## Sub Heading
+# CloudWatch 
+## Export Metric to S3
 ### Note 
 
 <details><summary>show</summary>
 <p>
 
 ```bash
-Solution here.....
+aws cloudwatch get-metric.....check the syntax
+
+CloudWatch event to AWS Lambda
 ```
 </p>
 </details>
