@@ -129,6 +129,7 @@ Solution here.....
 ## Metrics and creating alarms
 ### Alarm response action only SNS notification and ASG, For EC2 - restart, reccover, termiate etc
 ### Events - rules - Alarms are not valid source
+### Install Unified Agent on EC2 instance and enable log collection for Apache, other custom apps installed on EC2 instance. Then save the configuration to SSM, and resuse the configuration to other EC2 instances.
 
 <details><summary>show</summary>
 <p>
