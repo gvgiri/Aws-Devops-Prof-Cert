@@ -1,10 +1,10 @@
 # Hands on Practice for AWS DevOps Pro Certification
 ## Heading 2
 ### Heading 3
-## Heading 2
 
 
-# CDK in AWS
+
+# CloudFormation 
 ## Sub-Heading
 ### Note 
 
