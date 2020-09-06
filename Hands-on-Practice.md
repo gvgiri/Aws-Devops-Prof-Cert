@@ -44,6 +44,38 @@ Solution here.....
 </p>
 </details>
 
+# CodeDeploy
+## Deploying to EC2
+## Deploying to Serverless
+## Deploying to Containers
+### Note 
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
+
+# CodePipeline
+## Deploying to EC2
+## Deploying to Serverless
+## Deploying to Containers
+## Jenkins Integrations
+### Note 
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
 
 # CloudWatch Events - Automation
 ## Sub-Heading
