@@ -127,7 +127,8 @@ Solution here.....
 
 # CloudWatch 
 ## Metrics and creating alarms
-### Note 
+### Alarm response action only SNS notification and ASG, For EC2 - restart, reccover, termiate etc
+### Events - rules - Alarms are not valid source
 
 <details><summary>show</summary>
 <p>
