@@ -16,7 +16,7 @@
 
 
 # CloudFormation
-### Create VPC, 2 Subnets, 1 NAT Gateway, Route Tables, 2 Security Groups, 2 EC2 Instances, S3 bucket (1 Stack)
+### Create VPC, 2 Subnets, 1 IGW,  1 NAT Gateway, Route Tables, 2 Security Groups, 2 EC2 Instances, S3 bucket (1 Stack)
 ### Crete 2 EC2 Instances  
 ### Create S3 bucket (1 Stack)
 #### Variations: Nested Stacks
