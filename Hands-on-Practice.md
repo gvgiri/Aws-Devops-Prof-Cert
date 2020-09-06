@@ -25,7 +25,8 @@
 <p>
 
 ```bash
-Solution here.....
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/GettingStarted.Walkthrough.html
+
 ```
 </p>
 </details>
@@ -71,7 +72,9 @@ Solution here.....
 <p>
 
 ```bash
-Solution here.....
+https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials.html 
+https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/
+
 ```
 </p>
 </details>
