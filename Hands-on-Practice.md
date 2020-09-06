@@ -133,7 +133,10 @@ Solution here.....
 <p>
 
 ```bash
-Solution here.....
+< 1 min. 03 hours
+1 minute 15 days
+5 minute 63 days
+1 hour   15 months
 ```
 </p>
 </details>
