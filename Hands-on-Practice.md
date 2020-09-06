@@ -27,9 +27,14 @@
 ```bash
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/GettingStarted.Walkthrough.html
 
+# Perform ECS blue/green deployments through CodeDeploy using AWS CloudFormation
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/blue-green.html
+# Custom Resources - AWS Lambda-backed custom resources
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-custom-resources-lambda.html
 ```
 </p>
 </details>
+
 
 # CodeCommit
 ## Junior Devlopers are not allowed to update master brach
