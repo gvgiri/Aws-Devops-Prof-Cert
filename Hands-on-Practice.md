@@ -202,6 +202,9 @@ Solution here.....
 
 # AWS X-Ray
 ### Sample Application install 
+CloudWatch , SNS to notify wehen X-ray detcts elevated levels of latency
+
+https://aws.amazon.com/blogs/devops/using-amazon-cloudwatch-and-amazon-sns-to-notify-when-aws-x-ray-detects-elevated-levels-of-latency-errors-and-faults-in-your-application/
 ### Note 
 
 <details><summary>show</summary>
