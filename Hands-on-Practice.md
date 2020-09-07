@@ -187,8 +187,8 @@ CloudWatch event to AWS Lambda
 </p>
 </details>
 
-# Template 
-## Sub Heading
+# CloudWatch - Events
+## CW-Event - CloudTrail - API calls integration 
 ### Note 
 
 <details><summary>show</summary>
