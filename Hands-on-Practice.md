@@ -173,13 +173,16 @@ CloudWatch event to AWS Lambda
 
 # CloudWatch 
 ## Logs
+#### Export logs from Ec2(apache) to cloudwatch logs
+#### create a metric filter and Alarm on CW-logs - example 404 error
+#### Export CW-logs to S3 using subscription method
+#### Other export log streams are Kinesis streams, data firehose, Lambda 
 ### Note 
 
 <details><summary>show</summary>
 <p>
 
 ```bash
-Solution here.....
 ```
 </p>
 </details>
