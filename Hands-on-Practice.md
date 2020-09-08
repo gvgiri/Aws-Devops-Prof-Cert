@@ -232,9 +232,21 @@ Solution here.....
 </details>
 
 
-# Template 
-## Sub Heading
-### Note 
+# AutoScaling
+## Saling policies
+## ALB, application slow start support
+## Enable https on ALB
+### Suspending and resuming scaling polcies
+* suspended processes
+### Cooldown period,  
+## lifecycle Hooks
+* Lambda enent test case 
+## Termination policy
+## Integrating SQS with ASG
+* protectig instances from terminatiob vy auto scaling
+## monitoring & notifications
+## ASG CloudFormation creation policy
+## 
 
 <details><summary>show</summary>
 <p>
