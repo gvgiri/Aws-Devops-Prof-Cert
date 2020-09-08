@@ -246,20 +246,103 @@ Solution here.....
 * protectig instances from terminatiob vy auto scaling
 ## monitoring & notifications
 ## ASG CloudFormation creation policy
+## ASG  cloudFormation, codeDeploy usecase
+
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
+
+# DynamoDB Tables
+## Tables, primary key, sort key, LSI, GSI, RCU, WCU computations, DAX
+## DynamoDB Streams, Lambda function
+## Global Tables, replication
+## TTL -- go to epoch converter , Manage TTL
+## DynamoDB patterns
+* S3 metadata Index
+* ElasticSearch
+### Note 
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
+
+# S3
+## Events, Replication, lifecycle policy, S3 Encryption, Glacier, 
+### Note 
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
+
+# Multi AZ, Multi region 
+## Sub Heading
+### Note 
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
+
+# CloudFormation StackSets
+# Multi-Region Deployments - codeDeploy, codedeploy,cloudformation -- follow blog
+
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
+
+# DR
+## RTO, RPO
+## backup and restore -- high RPO
+## pilot light 
+## warm standby
+## Multi Site / Hot Site Approacg - (very low RTO, very expensive
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
+
+# DR DevOps CheckList 
 ## 
-
-<details><summary>show</summary>
-<p>
-
-```bash
-Solution here.....
-```
-</p>
-</details>
-
-
-# Template 
-## Sub Heading
+## EFS Backup, EFS to EFS Backup
+## Backups and Multi-Region DR
+## Elastic Beanstack Backups
 ### Note 
 
 <details><summary>show</summary>
@@ -272,78 +355,11 @@ Solution here.....
 </details>
 
 
-# Template 
-## Sub Heading
-### Note 
-
-<details><summary>show</summary>
-<p>
-
-```bash
-Solution here.....
-```
-</p>
-</details>
-
-
-# Template 
-## Sub Heading
-### Note 
-
-<details><summary>show</summary>
-<p>
-
-```bash
-Solution here.....
-```
-</p>
-</details>
-
-
-# Template 
-## Sub Heading
-### Note 
-
-<details><summary>show</summary>
-<p>
-
-```bash
-Solution here.....
-```
-</p>
-</details>
-
-
-# Template 
-## Sub Heading
-### Note 
-
-<details><summary>show</summary>
-<p>
-
-```bash
-Solution here.....
-```
-</p>
-</details>
-
-
-# Template 
-## Sub Heading
-### Note 
-
-<details><summary>show</summary>
-<p>
-
-```bash
-Solution here.....
-```
-</p>
-</details>
-
-
-# Template 
-## Sub Heading
+# On Premise Strategy with AWS
+# AWS Organizations
+## mutlti account strategies, multi account vs one account with multi vpc
+## OU, Service control polocies(SCP)
+## Moving accounts
 ### Note 
 
 <details><summary>show</summary>
